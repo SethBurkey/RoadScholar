@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class roadsscholar {
+public class RoadScholar {
 	/**
 	 * @param args
 	 * This program reads the input from a file and saves each edge in a weight matrix
